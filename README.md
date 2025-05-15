@@ -1,4 +1,4 @@
-## Hello, world! 🌎🇧🇷
+## Hello, world! 🌎
 My name is Vinicius! I'm currently studying algorithms and programming logic. After that, I'll start learning a language with a focus on back-end.
   
   ##
