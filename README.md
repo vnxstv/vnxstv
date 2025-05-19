@@ -3,8 +3,7 @@ My name is Vinicius! I'm currently studying algorithms and programming logic. Af
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vnxstv-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="vnxstv-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="vnxstv-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+<img align="center" alt="vnxstv-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
 ##
