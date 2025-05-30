@@ -1,9 +1,11 @@
 ## Hello, world! 🌎
-My name is Vinicius! I'm currently studying algorithms and programming logic. After that, I'll start learning a language with a focus on back-end.
+Hi guys, my name is <strong>Vinicius!</strong> I'm currently studying programming with a focus on <strong>back-end</strong>. <br>
+I've studied programming logic and some basic Javascript concepts (which allowed me to gain some experience in JavaScript) and I'm currently studying Java.
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="vnxstv-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="vnxstv-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-<img align="center" alt="vnxstv-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="vnxstv-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
 ##
