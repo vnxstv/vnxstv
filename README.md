@@ -1,4 +1,4 @@
-## Hello, world! :clap:
+## Hello world! :clap:
 Hi guys, my name is <strong>Vinicius!</strong> I'm currently studying programming with a focus on <strong>back-end</strong>. <br>
 I've studied programming logic and some basic Javascript concepts (which allowed me to gain some experience in JavaScript) and I'm currently studying Java.
 
